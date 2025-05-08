@@ -13,7 +13,10 @@ int main() {
 		cout << "你喜欢吃的第" << count << "个美食是" << food << endl;
 	}
 	cout << "你喜欢吃的美食有" << count << "种" << endl;*/
-	
+	while (1) {
+		break;
+		system("pause");
+	}
 	int x = 100;
 	char y = (char)x;
 	cout << "x=" << x << endl;
